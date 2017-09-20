@@ -1,0 +1,3 @@
+- Purpose: application provides user with amount
+detail you are expected to pay in each payment due, based on parameter inputs in 6 common loan amortization methods
+- Language used: PHP, HTML/CSS
